@@ -102,6 +102,7 @@ youtube-clone/
 │   ├── deployment.yml
 │   └── service.yml
 └── src/
+```
 
 
 ---
