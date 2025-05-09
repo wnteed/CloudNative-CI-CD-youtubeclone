@@ -91,16 +91,18 @@ L’objectif est de créer un pipeline automatisé : du code à la production su
 ---
 
 ## 📂 Structure du Dépôt
+
+```plaintext
 youtube-clone/
-│
 ├── Jenkinsfile
 ├── Dockerfile
 ├── package.json
 ├── trivyfs.txt / trivyimage.txt (générés)
 ├── Kubernetes/
-│ ├── deployment.yml
-│ └── service.yml
+│   ├── deployment.yml
+│   └── service.yml
 └── src/
+
 
 ---
 
